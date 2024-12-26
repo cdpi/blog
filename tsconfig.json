@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "ES2015", "ES2024"],
+    "target": "ES2024",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "strict": true,
+    "rootDir": "src",
+    "outDir": "dist"
+  },
+  "exclude": ["dev", "dist"]
+}
